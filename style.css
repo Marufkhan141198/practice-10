@@ -1,0 +1,55 @@
+.para {
+    margin-left: 140px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    font-size: 33px;
+}
+.log {
+    height: 500px;
+    width: 400px;
+    border-radius: 2px;
+    border: 2px solid green;
+    background-color: rgb(224, 213, 191);
+    margin:auto;
+
+}
+.con {
+    height: 20px;
+    width: 200px;
+    border-radius: 2px;
+    border:2px solid black;
+    background-color: rgb(186, 6, 183);
+    padding-left: 120px;
+    margin-left: 20px;
+    color: azure;
+}
+.element {
+    margin-left: 20px;
+    margin-top: 5px;
+    width: 80%;
+    border-radius: 2px;
+}
+.twitter {
+    height: 27px;
+    width: 270px;
+    border-radius: 2px;
+    border: 2px solid blue;
+    padding-left: 50px;
+    margin-left: 20px;
+    color: white;
+    background-color: aqua;
+    padding-top: 5px;
+
+}
+.facebook {
+    height: 27px;
+    width: 270px;
+    border-radius: 2px;
+    border: 2px solid blue;
+    padding-left: 50px;
+    margin-left: 20px;
+    color: white;
+    background-color: rgb(72, 66, 241);
+    padding-top: 5px;
+    margin-top: 30px;  
+}
